@@ -1,0 +1,48 @@
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Author.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.bookadd.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Books.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Borrowers.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.deletebook.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Form1.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Genres.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Home.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Publisher.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Register.resources
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.exe.config
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.exe
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.pdb
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.exe
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.pdb
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.exe.manifest
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.application
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.exe.manifest
+C:\Users\Пользователь\source\repos\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.application
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.exe.config
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.exe.manifest
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.application
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.exe
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\bin\Debug\abonementbiblioteka.pdb
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Author.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.bookadd.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Books.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Borrowers.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.deletebook.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Form1.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Genres.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Home.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Publisher.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.Register.resources
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.exe.manifest
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.application
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.exe
+C:\Users\Пользователь\Desktop\Учёба\3 курс\РП ПП02 Бурдуков Костя\abonementbiblioteka\abonementbiblioteka\obj\Debug\abonementbiblioteka.pdb
